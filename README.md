@@ -1,5 +1,23 @@
 # Flight Ticket Purchasing and Management Android App Using Kotlin
 
+# About Me :
+
+✅ Overview:
+
+(1) Qualified GOOGLE Competitions 6 Times.<br> 
+(2) Senior year Undergrad -Full Stack Developer and Data Scientist with 2 Years of hands-on INTERNSHIP experience in Analysis, 
+Development and Implementation with solid Programming expertise in C/C++,Python, OO Methodologies with a demonstrated history of working in the Internet Industry.
+
+
+# You can find me at:-
+✅ [Linkedin](https://www.linkedin.com/in/devang25/)<br> 
+✅ [Github](https://github.com/Devang-25/)<br>
+✅ [Facebook](https://www.facebook.com/Olive.Devang25)<br>
+✅ [Instagram](https://www.instagram.com/olive.devang_25/)<br>
+✅ [Twitter](https://twitter.com/Olive_Devang25)<br>
+✅ [Youtube](https://www.youtube.com/channel/UCvLEQ7QRsLkjHqrtwfSIFIA)<br>
+
+
 # Developing Environment 
 
 ## Kotlin 
@@ -94,21 +112,7 @@ Password : 2001<br>
 
 # Made with ❤️by "DEVANG SHARMA"
 
-## Reference Taken from: Djaka Technology
-
-# About me
-
-✅ Overview:
-
-(1) Qualified GOOGLE Competitions 6 Times. 
-(2) Senior year Undergrad -Full Stack Developer and Data Scientist with 2 Years of hands-on INTERNSHIP experience in Analysis, 
-Development and Implementation with solid Programming expertise in C/C++,Python, OO Methodologies with a demonstrated history of working in the Internet Industry.
-
-
-# You can find me at:-
-[Linkedin](https://www.linkedin.com/in/devang25/)
- or 
-[Github](https://github.com/Devang-25/)
+Reference Taken from: Djaka Technology
 
 
 Happy coding ❤️ .
