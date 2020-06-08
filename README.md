@@ -13,7 +13,7 @@ Development and Implementation with solid Programming expertise in C/C++,Python,
 ✅ [Linkedin](https://www.linkedin.com/in/devang25/)<br> 
 ✅ [Github](https://github.com/Devang-25/)<br>
 ✅ [Facebook](https://www.facebook.com/Olive.Devang25)<br>
-✅ [Instagram](https://www.instagram.com/olive.devang_25/)<br>
+✅ [Instagram](https://www.instagram.com/idevangsharma/)<br>
 ✅ [Twitter](https://twitter.com/Olive_Devang25)<br>
 ✅ [Youtube](https://www.youtube.com/channel/UCvLEQ7QRsLkjHqrtwfSIFIA)<br>
 
